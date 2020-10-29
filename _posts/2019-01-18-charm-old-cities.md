@@ -2,7 +2,7 @@
 layout: post
 title:  "Documentos cientificos del área de la salud"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
