@@ -18,14 +18,12 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-authors:
-    sal:
+    jane:
       name:           Karla Michelle Medina Cetina
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hola, mi nombre es Karla Medina, soy estudiante de la licenciatura de lengua inglesa en la universidad de Quitana Roo"
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "¡Hola! Mi nombre es Karla Medina, soy estudiante de la licenciatura de lengua inglesa en la universidad de Quintana Roo"
       email:          michel_karli@hotmail.com
-      twitter:        https://twitter.com/
-
+      twitter:        https://twitter.com
  
 # Defaults
 defaults:
@@ -35,7 +33,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Karla
       avatar: /assets/images/avatar1.jpg
       
   # all pages
