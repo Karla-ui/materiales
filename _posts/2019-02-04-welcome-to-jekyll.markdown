@@ -6,7 +6,7 @@ image: assets/images/demo1.jpg
 ---
 En esta Web tu encontraras diferentes documentos que te ayudaran en tus trabajos educativos
 
-Cuando necesitamos información normalmente lo primero que hacemos es acudir a internet. Parece natural. Pero internet no es “una” fuente de información: es una red de ordenadores donde hay mucha información y muchas fuentes y maneras de informarse. La cuestión, sobre todo si lo que buscamos es información especializada, es: 
+Cuando necesitamos información normalmente lo primero que hacemos es acudir a internet. Parece natural. Pero internet no es “una” fuente de información: es una red de ordenadores donde hay mucha información y muchas fuentes y maneras de informarse. La cuestión, sobre todo si lo que buscamos es información especializada.
 
 {% highlight ruby %}
 def print_hi(name)
